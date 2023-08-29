@@ -1,0 +1,93 @@
+[
+    {
+        "title": "ShortBoard 5.7",
+        "description": "Description 1",
+        "price": 150000,
+        "thumbnail": "ruta/short-5-7.jpg",
+        "code": "S0001",
+        "stock": 3,
+        "id": 1
+    },
+    {
+        "title": "ShortBoard 6.2",
+        "description": "Description 1",
+        "price": 170000,
+        "thumbnail": "ruta/short-6-2.jpg",
+        "code": "S0002",
+        "stock": 4,
+        "id": 2
+    },
+    {
+        "title": "LongBoard 7.6",
+        "description": "Description 1",
+        "price": 240000,
+        "thumbnail": "ruta/long-7-6.jpg",
+        "code": "L0001",
+        "stock": 2,
+        "id": 3
+    },
+    {
+        "title": "LongBoard 9.4",
+        "description": "Description 1",
+        "price": 275000,
+        "thumbnail": "ruta/long-9-4.jpg",
+        "code": "L0002",
+        "stock": 1,
+        "id": 4
+    },
+    {
+        "title": "RetroBoard 5",
+        "description": "Description 1",
+        "price": 225000,
+        "thumbnail": "ruta/retro-5.jpg",
+        "code": "R0001",
+        "stock": 2,
+        "id": 5
+    },
+    {
+        "title": "RetroBoard 5-4",
+        "description": "Description 1",
+        "price": 250000,
+        "thumbnail": "ruta/retro-5-4.jpg",
+        "code": "R0002",
+        "stock": 2,
+        "id": 6
+    },
+    {
+        "title": "ShortBoard 5.9",
+        "description": "Description 1",
+        "price": 190000,
+        "thumbnail": "ruta/short-5-9.jpg",
+        "code": "S0003",
+        "stock": 1,
+        "id": 7
+    },
+    {
+        "title": "ShortBoard 6.11",
+        "description": "Description 1",
+        "price": 210000,
+        "thumbnail": "ruta/short-6-11.jpg",
+        "code": "S0004",
+        "stock": 2,
+        "id": 8
+    },
+    {
+        "title": "LongBoard 8-6",
+        "description": "Description 1",
+        "price": 280000,
+        "thumbnail": "ruta/long-8-6.jpg",
+        "code": "L0003",
+        "stock": 3,
+        "id": 9
+    },
+    {
+        "title": "RetroBoard 6-2",
+        "description": "Description 1",
+        "price": 265000,
+        "thumbnail": "ruta/retro-6-2.jpg",
+        "code": "R0003",
+        "stock": 4,
+        "id": 10
+    }
+    
+]
